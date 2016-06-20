@@ -39,7 +39,7 @@ Remember, a lot of the help you'll get in the real world will be through the int
 
 ## How will I receive help?
 
-An instructor will come by to help you after you post your question. They'll provide feedback on your "question asking skills" and help you through your problem. Once they're done helping you, then you'll got back and answer your own question.
+An instructor will come by to help you after you post your question. They'll provide feedback on your "question asking skills" and help you through your problem. Once they're done helping you, then you'll go back and answer your own question.
 
 ## ...answer my own question?
 
