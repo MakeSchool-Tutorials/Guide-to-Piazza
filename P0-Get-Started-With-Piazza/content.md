@@ -8,24 +8,19 @@ We'll be using Piazza for asking questions during the Summer Academy. To get sta
 > [action]
 >
 1. Go to [Piazza](https://piazza.com), click _Sign Up_, then click _Students Get Started_.
-1. Search for and select _Make School Summer Academy_.
-![Choose Make School](./search_ms.png)
-1. Search for _MS_ and join the correct course.
-![Add class](./add_class.png)
-1. Enter your course's access code: _intro2016, games2016, apps2016, vr2016_.
-![Access code](access_code.png)
+1. Search for and select _Make School Summer Academy_. ![Choose Make School](./search_ms.png)
+1. Search for _MS_ and join the correct course. ![Add class](./add_class.png)
+1. Enter your course's access code: _intro2016, games2016, apps2016, vr2016_. ![Access code](access_code.png)
 1. Finish the enrollment process.
-1. Once inside the correct course, click `Resources` and join the correct group for your location.
-![Join location](./join_correct_location.png)
+1. Once inside the correct course, click `Resources` and join the correct group for your location. ![Join location](./join_correct_location.png)
 >
 ### Already have a Piazza account?
-> You'll need to switch schools for the Summer Academy. Just make sure to switch it back when the Summer Academy is finished.
+>
+You'll need to switch schools for the Summer Academy. Just make sure to switch it back when the Summer Academy is finished.
 >
 1. Log into Piazza.
-1. Open the course menu and click "Add another class".
-![Add course](./add_course.png)
-1. Click "Change School" and continue with step 2 above.
-![Change school](./change_school.png)
+1. Open the course menu and click "Add another class". ![Add course](./add_course.png)
+1. Click "Change School" and continue with step 2 above. ![Change school](./change_school.png)
 
 # Asking questions on Piazza
 
@@ -60,7 +55,9 @@ Follow these guidelines to ask effective questions:
 1. _Share the answer after your instructor helps you!_ This a great opportunity for you to reiterate the solution and make sure you understand it. You will be helping other students who run into similar problems!
 
 > [action]
-> ### See this screenshot for an overview of asking a question on Piazza:
+>
+> ### How to ask questions on Piazza
+>
 ![Piazza UI](./piazza_ui.png)
 >
 - Make sure to post it as a question to your class group.
